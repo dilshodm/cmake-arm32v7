@@ -3,7 +3,7 @@
 REL=1
 
 build_cmake() {
-    CMAKE_VER=4.1.2
+    CMAKE_VER=4.3.1
     CMAKE=cmake-$CMAKE_VER
 
     ARCH=$1
